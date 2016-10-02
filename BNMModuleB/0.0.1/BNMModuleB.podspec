@@ -18,7 +18,7 @@ s.description      = <<-DESC
 s.homepage         = "http://www.baidu.com"
 s.license          = 'MIT'
 s.author           = "chenshuijin@baidu.com"
-s.source           = { :git => "https://github.com/csjhrdd11314/BNMLogin.git", :tag => s.version }
+s.source           = { :git => "https://github.com/csjhrdd11314/BNMModuleB.git", :tag => s.version }
 s.platform     = :ios, '8.0'
 s.requires_arc = true
 s.public_header_files = "**/*.h"
